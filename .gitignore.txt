@@ -1,0 +1,9 @@
+# Ignore all executable files
+*.exe
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore C++ binary/object output files
+*.o
+*.out
