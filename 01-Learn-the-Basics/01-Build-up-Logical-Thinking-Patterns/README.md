@@ -1,7 +1,7 @@
 # 🧩 Pattern Printing Problems
 
 Welcome to the **Pattern Printing Problems** section of the **Striver A2Z DSA Course**! 🚀  
-This folder contains clean, well-documented C++ solutions for all **22 pattern problems** designed to build strong logical thinking and loop mastery.
+This folder contains clean, well-documented C++ solutions for all **22 pattern problems**.
 
 ---
 
