@@ -9,7 +9,7 @@ This directory contains C++ solutions for foundational DSA topics including C++ 
 | No. | Sub-topic Name | Folder Link | Status |
 | :---: | :--- | :---: | :---: |
 | **01** | Things to Know in C++ | [`01-Things-to-Know-in-CPP`](./01-Things-to-Know-in-CPP) | ✅ Completed |
-| **02** | Building Logic (Patterns) | [`02-Patterns`](./01-Learn-the-Basics/01-Build-up-Logical-Thinking-Patterns) | ✅ Completed |
+| **02** | Building Logic (Patterns) | [`02-Patterns`](Striver-A2Z-DSA-Sheet/01-Learn-the-Basics/01-Build-up-Logical-Thinking-Patterns) | ✅ Completed |
 | **03** | Learn C++ STL | [`03-Learn-STL`](./03-Learn-STL) | ✅ Completed |
 | **04** | Know Basic Maths | [`04-Know-Basic-Maths`](./04-Know-Basic-Maths) | ✅ Completed |
 | **05** | Learn Basic Recursion | [`05-Learn-Basic-Recursion`](./05-Learn-Basic-Recursion) | ✅ Completed |
