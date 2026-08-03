@@ -1,3 +1,12 @@
+/*
+   Pattern 1: Square Star Pattern
+   Design:
+   * * * * *
+   * * * * *
+   * * * * *
+   * * * * *
+   * * * * *
+*/
 #include <iostream>
 using namespace std;
 
