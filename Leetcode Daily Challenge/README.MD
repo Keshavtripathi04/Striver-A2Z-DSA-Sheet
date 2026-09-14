@@ -1,12 +1,12 @@
 # ⚡ LeetCode Daily Challenges & Solutions
 
-A dedicated repository for my daily LeetCode problem-solving journey in **C++**. This space tracks my practice on [LeetCode](https://leetcode.com/), documents optimal DSA patterns, and maintains a consistent streak of algorithmic problem solving.
+A dedicated repository for my daily LeetCode problem-solving journey in **C++**. This space tracks my practice on [LeetCode](https://leetcode.com/u/Keshavpsit2025/), documents optimal DSA patterns, and maintains a consistent streak of algorithmic problem solving.
 
 ---
 
 ## 🛠️ Repository Setup & Workflow
 
-* **Platform:** [LeetCode Profile](https://leetcode.com/)
+* **Platform:** [LeetCode Profile](https://leetcode.com/u/Keshavpsit2025/)
 * **Language:** C++17 / C++20
 * **IDE:** Visual Studio Code
 * **Automation:** Integrated via Official LeetCode VS Code Extension
