@@ -10,7 +10,7 @@ Welcome to the **Array Series** of the **Striver A2Z DSA Sheet**! This folder ho
 | :---: | :---: | :---: | :--- |
 | **Easy** | 6 / 6 | [📁 Easy Subfolder](./Easy/) | Basic Traversals, Rotations, Two Pointers, Linear Search |
 | **Medium** | 12 / 12 | [📁 Medium Subfolder](./Medium/) | Kadane's Algorithm, Prefix Sum, Dutch National Flag, Matrix Manipulation |
-| **Hard** | 8/8 | [📁 Hard Subfolder](./Hard/) | Subarrays with XOR, Merge Overlapping Intervals, Pascal's Triangle |
+| **Hard** | 8 / 8 | [📁 Hard Subfolder](./Hard/) | Subarrays with XOR, Merge Overlapping Intervals, Pascal's Triangle |
 
 ---
 
